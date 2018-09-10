@@ -1,0 +1,2 @@
+hellohelloln
+my string is :hello n=4
